@@ -1,4 +1,5 @@
 import streamlit as st
+
 from functions.plot_ts import plot
 
 def printTicker(ticker):
